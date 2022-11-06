@@ -1,0 +1,9 @@
+controller\DrawingLoop.class
+model\AnimatedSprite.class
+view\Score.class
+view\Platform.class
+model\Character.class
+model\Keys.class
+controller\JarLauncher.class
+controller\GameLoop.class
+controller\Launcher.class
